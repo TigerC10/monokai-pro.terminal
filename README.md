@@ -62,6 +62,12 @@ module.exports = {
 }
 ```
 
+### Alfred App
+If you aren't using the excellent (award winning) productivity app Alfred on MacOS, what are you even doing with your life?
+
+Download the [Monokai Pro Theme](https://www.alfredapp.com/extras/theme/jKb5wtiE3r/) from [alfredapp.com](https://www.alfredapp.com/),
+or open the [Monokai Pro.alfredappearance](Monokai%20Pro.alfredappearance) file provided in this repository.
+
 ## Notes
 
 ### Font
